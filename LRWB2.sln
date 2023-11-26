@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRWB2", "LRWB2\LRWB2.csproj", "{033C42A3-4B3E-4D93-8A84-66F6AFDFAD85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		win32|Any CPU = win32|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033C42A3-4B3E-4D93-8A84-66F6AFDFAD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033C42A3-4B3E-4D93-8A84-66F6AFDFAD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033C42A3-4B3E-4D93-8A84-66F6AFDFAD85}.Release|Any CPU.ActiveCfg = Release|Win32
+		{033C42A3-4B3E-4D93-8A84-66F6AFDFAD85}.Release|Any CPU.Build.0 = Release|Win32
+		{033C42A3-4B3E-4D93-8A84-66F6AFDFAD85}.win32|Any CPU.ActiveCfg = win32|Win32
+		{033C42A3-4B3E-4D93-8A84-66F6AFDFAD85}.win32|Any CPU.Build.0 = win32|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {354281E5-2A6F-4F5C-B268-4CFA296848A1}
+	EndGlobalSection
+EndGlobal
